@@ -1,0 +1,8 @@
+Web de Off Center (GitHub Pages)
+
+ANTES DE SUBIR, cambia en TODOS los archivos .html:
+  CONTACTO@EJEMPLO.COM  ->  tu correo de contacto
+y en app-ads.txt:
+  pub-0000000000000000  ->  tu ID de editor de AdMob (AdMob > Configuración > Información de la cuenta)
+
+No subas este LEEME.txt (da igual si lo subes).
